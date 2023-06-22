@@ -52,6 +52,17 @@ A curated list of references, software and other resources for scientific illust
 - [Krita](https://krita.org/): Open-source digital painting and illustration software.
 - [ShareX](https://getsharex.com/): Free and open-source screenshot and screencast tool.
 - [Slicer](https://www.slicer.org/): Open-source software for medical image informatics and image-guided intervention.
+- [Gimp](https://www.gimp.org/) : Free image editing program.
+- [Pixlr](https://pixlr.com/) : Free alternative to Adobe Photoshop.
+- [RawTheraPee](https://www.rawtherapee.com/): Free alternative to Adobe Lightroom.
+- [BoxySVGEditor](https://boxy-svg.com/) : Free alternative to Adobe Illustrator.
+- [Scribus](https://www.scribus.net/) : Free alternative to Adobe InDesign.
+- [Coolors](https://coolors.co/) : Color palette generator, which includes color blind filters and accessibility tools.
+- [Neural Love](https://neural.love/) :AI generator to enhance low quality images.
+- [Canva](https://www.canva.com/) : Accessible and easy to navigate site for graphic design and simple animations.
+- [Tinywow](https://tinywow.com/) : Free file converter.
+- [Unsplash](https://unsplash.com/) : Free stock photos, read Unsplash copyright for additional details.
+- [Pexels](https://www.pexels.com/) : Free stock photos and videos, read Pexels copyright for additional details.
 
 # Art and Science
 
@@ -69,6 +80,7 @@ A curated list of references, software and other resources for scientific illust
   - [Nature Chemistry](https://www.nature.com/nchem/)
   - [Nature](https://www.nature.com)
   - [Advanced Materials](https://onlinelibrary.wiley.com/journal/1468053X)
+  - [Building Science Graphics by Jen Christiansen](https://www.taylorfrancis.com/books/mono/10.1201/9781003217817/building-science-graphics-jen-christiansen)
 
 - Photography & Art
   - [Science Photo Library](https://www.sciencephoto.com/)
